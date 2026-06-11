@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: vedic-agi
+Version: 1.0.0
+Summary: Sovereign AGI built on Vedic algorithms — 1,092x faster attention
+Author: Joydeep Das
+Author-email: joydeep@divineearthly.in
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: torch>=2.0.0
+Requires-Dist: numpy>=1.24.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary
