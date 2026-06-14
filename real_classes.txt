@@ -1,0 +1,141 @@
+vedic-inference-engine/kernels/indra_net_krishi.py:class IndraNode:
+vedic-inference-engine/kernels/indra_net_krishi.py:class IndraAlert:
+vedic-inference-engine/kernels/indra_net_krishi.py:class IndraNet:
+vedic-inference-engine/kernels/pratyabhijna_engine.py:class ReputationSamskara:
+vedic-inference-engine/kernels/pratyabhijna_engine.py:class PratyabhijnaEngine:
+vedic-inference-engine/train_vedarta_50m.py:class SomaOptimizer:
+vedic-inference-engine/train_vedarta_50m.py:class GunaWeightedLayer:
+vedic-inference-engine/train_vedarta_50m.py:class VedaRtaModel:
+vedic-inference-engine/train_vedarta_compact.py:class MiniVedicLayer:
+vedic-inference-engine/train_vedarta_compact.py:class MiniVedaRta:
+vedic-inference-engine/vedic_inference_engine/ahimsa108.py:class AhimsaLevel(IntEnum):
+vedic-inference-engine/vedic_inference_engine/ahimsa108.py:class AhimsaVerdict:
+vedic-inference-engine/vedic_inference_engine/ahimsa108.py:class Ahimsa108Filter:
+vedic-inference-engine/vedic_inference_engine/antahkarana.py:class AntahkaranaPart(IntEnum):
+vedic-inference-engine/vedic_inference_engine/antahkarana.py:class SensoryStream:
+vedic-inference-engine/vedic_inference_engine/antahkarana.py:class BuddhiDecision:
+vedic-inference-engine/vedic_inference_engine/antahkarana.py:class Samskara:
+vedic-inference-engine/vedic_inference_engine/antahkarana.py:class Antahkarana:
+vedic-inference-engine/vedic_inference_engine/chitta_kv.py:class ChittaGuna(IntEnum):
+vedic-inference-engine/vedic_inference_engine/chitta_kv.py:class KVCacheToken:
+vedic-inference-engine/vedic_inference_engine/chitta_kv.py:class ChittaKVCache:
+vedic-inference-engine/vedic_inference_engine/chitta_kv.py:class ChittaContextFilter:
+vedic-inference-engine/vedic_inference_engine/guna.py:class Guna(IntEnum):
+vedic-inference-engine/vedic_inference_engine/guna.py:class GunaNeuron:
+vedic-inference-engine/vedic_inference_engine/guna.py:class GunaLayer:
+vedic-inference-engine/vedic_inference_engine/indra_net.py:class MessageType:
+vedic-inference-engine/vedic_inference_engine/indra_net.py:class IndraMessage:
+vedic-inference-engine/vedic_inference_engine/indra_net.py:class IndraNet:
+vedic-inference-engine/vedic_inference_engine/kala_chakra.py:class Ritu(IntEnum):
+vedic-inference-engine/vedic_inference_engine/kala_chakra.py:class Tithi(IntEnum):
+vedic-inference-engine/vedic_inference_engine/kala_chakra.py:class Paksha(IntEnum):
+vedic-inference-engine/vedic_inference_engine/kala_chakra.py:class VedicDate:
+vedic-inference-engine/vedic_inference_engine/kala_chakra.py:class KalaChakra:
+vedic-inference-engine/vedic_inference_engine/kosha.py:class KoshaLayer(IntEnum):
+vedic-inference-engine/vedic_inference_engine/kosha.py:class KoshaEntry:
+vedic-inference-engine/vedic_inference_engine/kosha.py:class KoshaNet:
+vedic-inference-engine/vedic_inference_engine/manas_gate.py:class SensoryPriority:
+vedic-inference-engine/vedic_inference_engine/manas_gate.py:class ManasGate:
+vedic-inference-engine/vedic_inference_engine/maya_vyuha.py:class MayaVyuha:
+vedic-inference-engine/vedic_inference_engine/para_vak.py:class VakLevel(IntEnum):
+vedic-inference-engine/vedic_inference_engine/para_vak.py:class VakToken:
+vedic-inference-engine/vedic_inference_engine/para_vak.py:class ParaVakEngine:
+vedic-inference-engine/vedic_inference_engine/pramana.py:class PramanaSource(IntEnum):
+vedic-inference-engine/vedic_inference_engine/pramana.py:class PramanaToken:
+vedic-inference-engine/vedic_inference_engine/pramana.py:class NyayaScaffold:
+vedic-inference-engine/vedic_inference_engine/rta_dharma.py:class DharmaPriority:
+vedic-inference-engine/vedic_inference_engine/rta_dharma.py:class RtaDharmaRouter:
+vedic-inference-engine/vedic_inference_engine/serve.py:class VedicInference:
+vedic-inference-engine/vedic_inference_engine/tanmatra.py:class TanmatraElement(IntEnum):
+vedic-inference-engine/vedic_inference_engine/tanmatra.py:class TanmatraInput:
+vedic-inference-engine/vedic_inference_engine/tanmatra.py:class TanmatraBranch:
+vedic-inference-engine/vedic_inference_engine/tanmatra.py:class TanmatraFusion:
+VedaRta/docs/PAPER_FINAL.md:Transformer-class models on consumer ARM64 devices without cloud dependencies.
+VedaRta/gemma_paginated_loader.cpp:class GemmaPaginatedLoader {
+VedaRta/kernels/indra_net_krishi.py:class IndraNode:
+VedaRta/kernels/indra_net_krishi.py:class IndraAlert:
+VedaRta/kernels/indra_net_krishi.py:class IndraNet:
+VedaRta/kernels/pratyabhijna_engine.py:class ReputationSamskara:
+VedaRta/kernels/pratyabhijna_engine.py:class PratyabhijnaEngine:
+VedaRta/sarvajna_asi_runtime.cpp:class SarvajnaRuntime {
+VedaRta/sarvajna_vedic_runner.cpp:class EkadhikenaLayerManager {
+VedaRta/sovereign_stack.py:class ManasLayer:
+VedaRta/sovereign_stack.py:class BuddhiLayer:
+VedaRta/sovereign_stack.py:class VedicAlgorithmLayer:
+VedaRta/sovereign_stack.py:class ChittaMemory:
+VedaRta/sovereign_stack.py:class KatapayadiRouter:
+VedaRta/sovereign_stack.py:class BuddhiEvaluator:
+VedaRta/sovereign_stack.py:class SovereignStack:
+VedaRta/svayambhu_watcher.py:class NadiHealth:
+VedaRta/tools/arc_veda_engine.py:class ARCVedaEngine:
+VedaRta/tools/arc_vedic_agent.py:class VedicAgent:
+VedaRta/unified_sovereign.py:class SovereignASI:
+VedaRta/vedic_inference_core.h:class AnurupyenaCompressor {
+VedaRta/vedic_inference_core.h:class NikhilamEncoder {
+VedaRta/vedic_inference_core.h:class EkadhikenaLoader {
+VedaRta/vedic_inference_core.h:class LopanaSthapana {
+VedaRta/vedic_inference_core.h:class UrdhavaAttention {
+VedaRta/vedic_inference_core.h:class SarvajnaVedicInference {
+VedaRta/vedic_inference_core_v2.h:class AnurupyenaCompressor {
+VedaRta/vedic_inference_core_v2.h:class NikhilamEncoder {
+VedaRta/vedic_inference_core_v2.h:class EkadhikenaLoader {
+VedaRta/vedic_inference_core_v2.h:class LopanaSthapana {
+VedaRta/vedic_inference_core_v2.h:class UrdhavaAttention {
+VedaRta/vedic_inference_core_v2.h:class SarvajnaVedicInference {
+VedaRta/vedic_tensor_ops.h:class VedicQ4Decompressor {
+VedaRta/vedic_tensor_ops.h:class NikhilamKVCache {
+VedaRta/vedic_tensor_ops.h:class VedicActivationPruner {
+VedaRta/vedic_tensor_ops.h:class VedicGemmaLayer {
+vedic-ai-kernels/pramana_nyaya/core/epistemic_classifier.py:class EpistemicClassifier:
+vedic-ai-kernels/pramana_nyaya/core/kernel.py:class HallucinationReport:
+vedic-ai-kernels/pramana_nyaya/core/kernel.py:class HallucinationPreventionKernel:
+vedic-ai-kernels/pramana_nyaya/core/reasoning_scaffold.py:class ReasoningScaffold:
+vedic-ai-kernels/pramana_nyaya/core/receipt_verifier.py:class ReceiptVerifier:
+vedic-ai-kernels/pramana_nyaya/tests/test_hallucination_kernel.py:class TestEpistemicClassifier:
+vedic-ai-kernels/pramana_nyaya/tests/test_hallucination_kernel.py:class TestReceiptVerifier:
+vedic-ai-kernels/pramana_nyaya/tests/test_hallucination_kernel.py:class TestReasoningScaffold:
+vedic-ai-kernels/pramana_nyaya/tests/test_hallucination_kernel.py:class TestHallucinationPreventionKernel:
+vedic-ai-kernels/pramana_nyaya/tests/test_hallucination_kernel.py:class TestPramanaTypes:
+vedic-ai-kernels/pramana_nyaya/tests/test_hallucination_kernel.py:class TestKernelConfig:
+vedic-ai-kernels/pramana_nyaya/utils/config.py:class KernelConfig:
+vedic-ai-kernels/pramana_nyaya/utils/pramana_types.py:class Pramana(Enum):
+vedic-ai-kernels/pramana_nyaya/utils/pramana_types.py:class AvayavaStep(Enum):
+vedic-ai-kernels/pramana_nyaya/utils/pramana_types.py:class EpistemicToken:
+vedic-ai-kernels/pramana_nyaya/utils/pramana_types.py:class Receipt:
+vedic-ai-kernels/pramana_nyaya/utils/pramana_types.py:class PanchaAvayava:
+vedic-ai-kernels/pramana_nyaya/utils/pramana_types.py:class ReasoningResult:
+Krishi-Veda-Module/backend/core/api_v1.py:class FarmerQuery(BaseModel):
+Krishi-Veda-Module/backend/core/api_v1.py:class SensorData(BaseModel):
+Krishi-Veda-Module/backend/core/api_v1.py:class AdviceRequest(BaseModel):
+Krishi-Veda-Module/backend/core/crop_manager.py:class CropManager:
+Krishi-Veda-Module/backend/core/lazy_loader.py:class LazyServiceLoader:
+Krishi-Veda-Module/backend/core/live_location_engine.py:class GeoLocation:
+Krishi-Veda-Module/backend/core/live_location_engine.py:class LiveLocationEngine:
+Krishi-Veda-Module/backend/core/universal_sensor_bridge.py:class SensorType(Enum):
+Krishi-Veda-Module/backend/core/universal_sensor_bridge.py:class SensorReading:
+Krishi-Veda-Module/backend/core/universal_sensor_bridge.py:class UniversalSensorBridge:
+Krishi-Veda-Module/backend/core/vedic_quantum_engine.py:class VedicQuantumEngine:
+Krishi-Veda-Module/backend/main.py:class SoilRequest(BaseModel):
+Krishi-Veda-Module/backend/main.py:class SyncRequest(BaseModel):
+Krishi-Veda-Module/backend/main.py:class PlanRequest(BaseModel):
+Krishi-Veda-Module/backend/services/slm_reasoning_engine.py:class FarmContext:
+Krishi-Veda-Module/backend/services/slm_reasoning_engine.py:class VedicPlan:
+Krishi-Veda-Module/backend/services/soil_health.py:class SoilHealthService:
+Krishi-Veda-Module/backend/services/validation_ledger.py:class ValidationLedger:
+Krishi-Veda-Module/backend/services/validation_ledger_v2.py:class ValidationLedgerV2:
+Krishi-Veda-Module/frontend/onboarding.js:            loadingArea.innerHTML = `<div class="spinner"></div><p>🌱 ${message}</p>`; // Added a simple spinner CSS class assumption
+Krishi-Veda-Module/krishi_server.py:class KrishiHandler(SimpleHTTPRequestHandler):
+Krishi-Veda-Module/main_offline.py:class KrishiVedaHandler(BaseHTTPRequestHandler):
+Krishi-Veda-Module/mobile_app.py:class MainScreen(Screen):
+Krishi-Veda-Module/mobile_app.py:class KrishiVedaScreen(Screen):
+Krishi-Veda-Module/mobile_app.py:class WaterGuardianScreen(Screen):
+Krishi-Veda-Module/mobile_app.py:class DivineEarthlyApp(App):
+Krishi-Veda-Module/scripts/convert_models.py:class SimpleCalibrationDataReader(CalibrationDataReader):
+Krishi-Veda-Module/serve_pwa.py:class Handler(http.server.SimpleHTTPRequestHandler):
+Krishi-Veda-Module/server.py:class QueryRequest(BaseModel):
+Krishi-Veda-Module/server.py:class SensorTelemetry(BaseModel):
+Krishi-Veda-Module/server.py:class IdentityRequest(BaseModel):
+Krishi-Veda-Module/server.py:class MeshSyncPayload(BaseModel):
+Krishi-Veda-Module/vedic_core/crop_recommendation.py:class CropRecommender:
+Krishi-Veda-Module/vedic_core/krishi_sutras.py:class KrishiSutraEngine:
+Krishi-Veda-Module/vedic_core/soil_analysis.py:class SoilAnalyzer:

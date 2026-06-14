@@ -1,0 +1,17 @@
+/data/data/com.termux/files/home/sovereign-vedic-agi/sovereign-edge-ai/vedic_12m_epoch6.pt
+/data/data/com.termux/files/home/sovereign-vedic-agi/sovereign-edge-ai/vedic_bpe_10m.pt
+/data/data/com.termux/files/home/sovereign-vedic-agi/sovereign-edge-ai/vedic_smart_10m.pt
+/data/data/com.termux/files/home/sovereign-vedic-agi/sovereign-edge-ai/vedic_stable_v2_epoch2.pt
+/data/data/com.termux/files/home/sovereign-vedic-agi/Vedic-Quantum-Intelligence-Engine/lightweight_ai/models/earth_signal_model.pth
+/data/data/com.termux/files/home/sovereign-vedic-agi/Vedic-Quantum-Intelligence-Engine/lightweight_ai/models/earth_signal_model_ts.pt
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/flate2-1.1.9/tests/corrupt-gz-file.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.11.0/tests/data/sha224_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.11.0/tests/data/sha256_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.11.0/tests/data/sha384_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.11.0/tests/data/sha512_224_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.11.0/tests/data/sha512_256_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.11.0/tests/data/sha512_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.11.2/tests/data/fixed_hash_serialization.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.14/tests/ed25519_test_private_key.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.14/tests/ed25519_test_public_key.bin
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.14/tests/rsa_test_public_modulus.bin

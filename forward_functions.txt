@@ -1,0 +1,231 @@
+./vedic_ai/kaggle_vedarta_train.py:    def forward(self, seq_len):
+./vedic_ai/kaggle_vedarta_train.py:    def forward(self, x):
+./vedic_ai/kaggle_vedarta_train.py:    def forward(self, x):
+./vedic_ai/kaggle_vedarta_train.py:    def forward(self, x):
+./vedic_ai/kaggle_vedarta_train.py:    def forward(self, x):
+./vedic_ai/kaggle_vedarta_train.py:    def forward(self, input_ids):
+./vedic_ai/vedarta_model.py:    def forward(self, x, kv_cache=None):
+./vedic_ai/vedarta_model.py:        x = self.ln_attn.forward(x + attn_out)
+./vedic_ai/vedarta_model.py:        ff_out = self.ff.forward(x)
+./vedic_ai/vedarta_model.py:        x = self.ln_ff.forward(x + ff_out)
+./vedic_ai/vedarta_model.py:    def forward(self, token_ids):
+./vedic_ai/vedarta_model.py:                x_new[b] = layer.forward(x[b], kv_cache=self.kv_caches[i])
+./vedic_ai/vedarta_model.py:            logits = self.forward(ctx)
+./vedic_ai/vedarta_model.py:    logits = model.forward(batch)
+./vedic_ai/vedarta_model.py:    logits2 = model2.forward(batch)
+./vedic_ai/vedic_layers.py:    def forward(self, x):
+./vedic_ai/vedic_layers.py:    def forward(self, x):
+./vedic_ai/vedic_layers.py:    out = ff.forward(x_test)
+./vedic_ai/vedic_llm.py:    def forward(self, x):
+./vedic_ai/vedic_llm.py:    def forward(self, x):
+./vedic_ai/vedic_llm.py:        ff_out = self.ff.forward(x)
+./vedic_ai/vedic_llm.py:    def forward(self, tokens):
+./vedic_ai/vedic_llm.py:            x = layer.forward(x)
+./vedic_ai/vedic_llm.py:            logits = self.forward(input_tensor)
+./vedic_ai/vedic_llm.py:    logits = model.forward(test_tokens)
+./Vedic-Native-SLM-Framework/vedic_layers.cpp:void vedic_linear_forward(const int8_t* input, const int8_t* weights, int32_t* output, 
+./sovereign-edge-ai/0001-Vedic-softmax-backend-hook-for-llama.cpp.patch:@@ -1878,7 +1879,16 @@ static void ggml_compute_forward(struct ggml_compute_params * params, struct ggm
+./sovereign-edge-ai/0001-Vedic-softmax-backend-hook-for-llama.cpp.patch:+                if (ggml_vedic_softmax_forward(
+./sovereign-edge-ai/0001-Vedic-softmax-backend-hook-for-llama.cpp.patch:+int ggml_vedic_softmax_forward(const float* src, float* dst, int n, float temp) {
+./sovereign-edge-ai/0001-Vedic-softmax-backend-hook-for-llama.cpp.patch:+int ggml_vedic_softmax_forward(const float* src, float* dst, int n, float temp);
+./sovereign-edge-ai/train_vedic_full.py:    def forward(self, logits, targets):
+./sovereign-edge-ai/train_vedic_stable.py:    def forward(self, x):
+./sovereign-edge-ai/train_vedic_stable.py:    def forward(self, output, target):
+./sovereign-edge-ai/vedic_attention.py:    def forward(self, x: torch.Tensor):
+./sovereign-edge-ai/vedic_attention.py:    def forward(self, q: torch.Tensor, k: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_attention.py:    def forward(self, scores: torch.Tensor, temperature: float = 1.0,
+./sovereign-edge-ai/vedic_attention.py:    def forward(self, weights: torch.Tensor, values: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_attention.py:    def forward(self, x: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_attention_full.py:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_attention_full.py:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_attention_full.py:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_attention_full.py:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_attention_full.py:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_attention_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, a, b):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, a, b):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, grad_out, input):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, a, b):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, a, b, prev_result=None):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, token_ids):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, token_ids):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, q, k, v):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, logits, targets):
+./sovereign-edge-ai/vedic_code_dump.txt:    void forward(int* tokens, float* x_out, int seq_len) {
+./sovereign-edge-ai/vedic_code_dump.txt:        forward(tokens,x,seq_len);
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, output, target):
+./sovereign-edge-ai/vedic_code_dump.txt:    void forward(const int* tokens, float* logits, int seq_len) {
+./sovereign-edge-ai/vedic_code_dump.txt:            m.forward(data[s],logits,MAX_SEQ);
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, token_ids: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:void vedic_layer_forward(
+./sovereign-edge-ai/vedic_code_dump.txt:void vedic_layer_forward(
+./sovereign-edge-ai/vedic_code_dump.txt:    void forward(float* input, float* output, int seq, int dim) {
+./sovereign-edge-ai/vedic_code_dump.txt:    ai.forward(input, output, 5, 64);
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x: torch.Tensor):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, q: torch.Tensor, k: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, scores: torch.Tensor, temperature: float = 1.0,
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, weights: torch.Tensor, values: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, token_ids: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, seq_len: int, device: torch.device) -> torch.Tensor:
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    void forward(int* tokens, float* logits, int seq_len) {
+./sovereign-edge-ai/vedic_code_dump.txt:        forward(tokens, logits, seq_len);
+./sovereign-edge-ai/vedic_code_dump.txt:        model.forward(tokens, logits, len);
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_code_dump.txt:    def forward(self, x):
+./sovereign-edge-ai/vedic_embedding.py:    def forward(self, token_ids: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_embedding.py:    def forward(self, seq_len: int, device: torch.device) -> torch.Tensor:
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, token_ids):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, seq_len, device):
+./sovereign-edge-ai/vedic_embedding_full.py:    def forward(self, token_ids):
+./sovereign-edge-ai/vedic_ffn.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_ffn.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_framework.h:void vedic_layer_forward(
+./sovereign-edge-ai/vedic_framework.h:void vedic_layer_forward(
+./sovereign-edge-ai/vedic_layers.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_layers.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, a, b):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, a, b):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, grad_out, input):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, a, b):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, a, b, prev_result=None):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_matmul_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_norm_full.py:    def forward(self, x):
+./sovereign-edge-ai/vedic_transformer.py:    def forward(self, x: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_transformer.py:    def forward(self, token_ids: torch.Tensor) -> torch.Tensor:
+./sovereign-edge-ai/vedic_transformer_cpp.cpp:    void forward(const int* tokens, float* logits, int seq_len) {
+./sovereign-edge-ai/vedic_transformer_cpp.cpp:            m.forward(data[s],logits,MAX_SEQ);
+./sovereign-edge-ai/vedic_transformer_train.cpp:    void forward(int* tokens, float* x_out, int seq_len) {
+./sovereign-edge-ai/vedic_transformer_train.cpp:        forward(tokens,x,seq_len);
+./sovereign-edge-ai/vedic_unified_supreme.cpp:    void forward(float* input, float* output, int seq, int dim) {
+./sovereign-edge-ai/vedic_unified_supreme.cpp:    ai.forward(input, output, 5, 64);
+./sovereign-edge-ai/vedic_universal_train.cpp:    void forward(int* tokens, float* logits, int seq_len) {
+./sovereign-edge-ai/vedic_universal_train.cpp:        forward(tokens, logits, seq_len);
+./sovereign-edge-ai/vedic_universal_train.cpp:        model.forward(tokens, logits, len);
+./vedic-inference-engine/kernels/vedic_sutras_master.h:#define VEDIC_CYCLE(i,l,o)    kala_chakra_forward(i,l,o)
+./vedic-inference-engine/kernels/vr_guna.h:    void forward(float* input, float* output) {
+./vedic-inference-engine/kernels/vr_kala_chakra.h:    bool forward(float* input, int len, float* output) {
+./vedic-inference-engine/train_vedarta_50m.py:    def forward(self, x: List[float]) -> List[float]:
+./vedic-inference-engine/train_vedarta_50m.py:    def forward(self, x: List[List[float]]) -> List[List[float]]:
+./vedic-inference-engine/train_vedarta_50m.py:            h = [layer.forward(token) for token in h]
+./vedic-inference-engine/train_vedarta_50m.py:        return [self.output_proj.forward(token) for token in h]
+./vedic-inference-engine/train_vedarta_50m.py:        output = self.forward(x)
+./vedic-inference-engine/train_vedarta_compact.py:    def forward(self, x):
+./vedic-inference-engine/train_vedarta_compact.py:    def forward(self, x):
+./vedic-inference-engine/train_vedarta_compact.py:            h = layer.forward(h)
+./vedic-inference-engine/train_vedarta_compact.py:        return self.head.forward(h)
+./vedic-inference-engine/train_vedarta_compact.py:        out = self.forward(x)
+./vedic-inference-engine/vedic_inference_engine/tanmatra.py:    def forward(self, x: List[float]) -> List[float]:
+./vedic-inference-engine/vedic_inference_engine/tanmatra.py:            element_output = branch.forward(inp.values[:4])
+./VedaRta/examples/train.vr:        output = model.forward(batch.input)
+./VedaRta/kernels/vedic_sutras_master.h:#define VEDIC_CYCLE(i,l,o)    kala_chakra_forward(i,l,o)
+./VedaRta/kernels/vr_guna.h:    void forward(float* input, float* output) {
+./VedaRta/kernels/vr_kala_chakra.h:    bool forward(float* input, int len, float* output) {
+./Divine-Earthly-Intelligence-System/agents/inference.py:    def forward(self, x):
+./Divine-Earthly-Intelligence-System/world_problem_modules/inference.py:    def forward(self, x):
+./Divine-Earthly-Intelligence-System/world_problem_modules/train_model.py:    def forward(self, x):
+./Vedic-Quantum-Intelligence-Engine/lightweight_ai/models/inference.py:    def forward(self, x):
+./Vedic-Quantum-Intelligence-Engine/lightweight_ai/models/train_model.py:    def forward(self, x):
+./structs.txt:./sovereign-edge-ai/0001-Vedic-softmax-backend-hook-for-llama.cpp.patch:@@ -1878,7 +1879,16 @@ static void ggml_compute_forward(struct ggml_compute_params * params, struct ggm

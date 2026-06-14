@@ -1,0 +1,505 @@
+./nhai-vedic-engine/NhaiApp/android/app/build.gradle:    namespace "com.nhaiapp"
+./nhai-vedic-engine/NhaiApp/android/app/build.gradle.bak:    namespace "com.nhaiapp"
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/anurupyena_quant.h:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/anurupyena_quant.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/face_vision.h:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/face_vision.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/liveness_check.h:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/liveness_check.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/nikhilam_distance.h:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/nikhilam_distance.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/urdhva_multiplication.h:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/include/urdhva_multiplication.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/face_vision.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/face_vision.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/liveness_check.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/liveness_check.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/main.cpp:using namespace DivineEarthly::SovereignIntelligence;
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/nikhilam_distance.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/nikhilam_distance.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/urdhva_multiplication.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/NhaiApp/android/app/src/main/cpp/src/urdhva_multiplication.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/include/anurupyena_quant.h:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/include/anurupyena_quant.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/include/face_vision.h:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/include/face_vision.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/include/liveness_check.h:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/include/liveness_check.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/include/nikhilam_distance.h:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/include/nikhilam_distance.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/include/urdhva_multiplication.h:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/include/urdhva_multiplication.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/src/anurupyena_quant.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/src/anurupyena_quant.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/src/face_vision.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/src/face_vision.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/src/jni_bridge.cpp:using namespace DivineEarthly::SovereignIntelligence;
+./nhai-vedic-engine/core_kernel/src/liveness_check.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/src/liveness_check.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/src/main.cpp:using namespace DivineEarthly::SovereignIntelligence;
+./nhai-vedic-engine/core_kernel/src/nikhilam_distance.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/src/nikhilam_distance.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/core_kernel/src/urdhva_multiplication.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/core_kernel/src/urdhva_multiplication.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/anurupyena_quant.h:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/anurupyena_quant.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/face_vision.h:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/face_vision.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/liveness_check.h:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/liveness_check.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/nikhilam_distance.h:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/nikhilam_distance.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/urdhva_multiplication.h:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/include/urdhva_multiplication.h:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/anurupyena_quant.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/anurupyena_quant.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/face_vision.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/face_vision.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/jni_bridge.cpp:using namespace DivineEarthly::SovereignIntelligence;
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/liveness_check.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/liveness_check.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/main.cpp:using namespace DivineEarthly::SovereignIntelligence;
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/nikhilam_distance.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/nikhilam_distance.cpp:    namespace SovereignIntelligence {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/urdhva_multiplication.cpp:namespace DivineEarthly {
+./nhai-vedic-engine/hackathon_7_submission/core_kernel/src/urdhva_multiplication.cpp:    namespace SovereignIntelligence {
+./vedic-kernels/ALL_FILES_STRUCTURE.txt:namespace vedic {
+./vedic-kernels/ALL_FILES_STRUCTURE.txt:} // namespace vedic
+./vedic-kernels/src/vedic_matmul.h:namespace vedic {
+./vedic-kernels/src/vedic_matmul.h:} // namespace vedic
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/aho_corasick.hpp:namespace kavach {
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/aho_corasick.hpp:} // namespace kavach
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/akasha.hpp:namespace kavach {
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/akasha.hpp:} // namespace kavach
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/charaka.hpp:namespace kavach {
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/charaka.hpp:} // namespace kavach
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/hs_nyaya.hpp:namespace kavach {
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/hs_nyaya.hpp:} // namespace kavach
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/nyaya.hpp:namespace kavach {
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/nyaya.hpp:} // namespace kavach
+./KAVACH-Sovereign-Intelligence/cpp-engine/include/kavach/sutra.hpp:namespace kavach::sutra {
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/aho_benchmark.cpp:using namespace kavach;
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/aho_benchmark.cpp:using namespace std::chrono;
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/main.cpp:using namespace kavach;
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/main.cpp:using namespace std::chrono;
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/main_kw.cpp:using namespace kavach;
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/main_kw.cpp:using namespace std::chrono;
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/nyaya.cpp:namespace kavach {
+./KAVACH-Sovereign-Intelligence/cpp-engine/src/nyaya.cpp:} // namespace kavach
+./Divine-Earthly-Quantum-Vedic-Kernels/benchmark_suite.cpp:using namespace DivineEarthlyKernels::Compute;
+./Divine-Earthly-Quantum-Vedic-Kernels/global_benchmark.cpp:using namespace DivineEarthlyKernels::Compute;
+./Divine-Earthly-Quantum-Vedic-Kernels/global_benchmark.cpp:using namespace DivineEarthlyKernels::NLP;
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/BuddhiLogic.cpp:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/BuddhiLogic.h:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/PingalaChandaSutras.cpp:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/PingalaChandaSutras.h:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SriYantraTensor.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SriYantraTensor.h:namespace Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SriYantraTensor.h:} // namespace Compute
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SriYantraTensor.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SulbaSutras.cpp:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SulbaSutras.h:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SuryaSIMD.h:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SuryaSiddhanta.cpp:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/SuryaSiddhanta.h:namespace DivineEarthlyKernels::Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/VedicUpaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/VedicUpaSutras.h:namespace Compute {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/VedicUpaSutras.h:} // namespace Compute
+./Divine-Earthly-Quantum-Vedic-Kernels/include/compute/VedicUpaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/AgamaShastras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/AgamaShastras.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/AgamaShastras.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/AgamaShastras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Antahkarana.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Antahkarana.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Antahkarana.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Antahkarana.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Arthashastra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Arthashastra.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Arthashastra.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Arthashastra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BhagavadGita.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BhagavadGita.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BhagavadGita.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BhagavadGita.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BinduSingularity.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BinduSingularity.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BinduSingularity.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BinduSingularity.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BrahmaShivaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BrahmaShivaSutras.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BrahmaShivaSutras.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/BrahmaShivaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/CharakaSamhita.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/CharakaSamhita.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/CharakaSamhita.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/CharakaSamhita.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/GarbhaUpanishad.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/GarbhaUpanishad.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/GarbhaUpanishad.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/GarbhaUpanishad.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Hiranyagarbha.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Hiranyagarbha.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Hiranyagarbha.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Hiranyagarbha.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/IndrasNet.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/IndrasNet.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/IndrasNet.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/IndrasNet.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Jyotisha.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Jyotisha.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Jyotisha.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Jyotisha.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalaChakra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalaChakra.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalaChakra.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalaChakra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalpaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalpaSutras.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalpaSutras.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KalpaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KashyapaSamhita.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KashyapaSamhita.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KashyapaSamhita.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/KashyapaSamhita.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Kundalini.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Kundalini.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Kundalini.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Kundalini.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MahaVakyas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MahaVakyas.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MahaVakyas.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MahaVakyas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MandukyaUpanishad.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MandukyaUpanishad.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MandukyaUpanishad.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MandukyaUpanishad.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MayaHypervisor.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MayaHypervisor.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MayaHypervisor.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MayaHypervisor.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MimamsaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MimamsaSutras.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MimamsaSutras.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MimamsaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MokshaProtocol.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MokshaProtocol.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MokshaProtocol.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/MokshaProtocol.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PanchaMahabhuta.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PanchaMahabhuta.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PanchaMahabhuta.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PanchaMahabhuta.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PranaNadis.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PranaNadis.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PranaNadis.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/PranaNadis.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Purusharthas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Purusharthas.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Purusharthas.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Purusharthas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/RasaTheory.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/RasaTheory.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Rigveda.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Rigveda.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Rigveda.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Rigveda.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SamkhyaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SamkhyaSutras.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SamkhyaSutras.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SamkhyaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Samyama.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Samyama.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Samyama.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/Samyama.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShaktiPeethas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShaktiPeethas.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShaktiPeethas.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShaktiPeethas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShatDarshanas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShatDarshanas.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShatDarshanas.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShatDarshanas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShilpaShastras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShilpaShastras.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShilpaShastras.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/ShilpaShastras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SpandaKarikas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SpandaKarikas.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SpandaKarikas.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SpandaKarikas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SushrutaSamhita.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SushrutaSamhita.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SushrutaSamhita.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/SushrutaSamhita.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/TheYugas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/TheYugas.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/TheYugas.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/TheYugas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/UpanishadBase.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/UpanishadBase.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/UpanishadBase.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/UpanishadBase.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VarnaAshrama.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VarnaAshrama.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VarnaAshrama.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VarnaAshrama.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VastuShastra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VastuShastra.h:namespace Core {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VastuShastra.h:} // namespace Core
+./Divine-Earthly-Quantum-Vedic-Kernels/include/core/VastuShastra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/GandharvaVeda.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/GandharvaVeda.h:namespace IO {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/GandharvaVeda.h:} // namespace IO
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/GandharvaVeda.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/Pratishakhyas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/Pratishakhyas.h:namespace IO {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/Pratishakhyas.h:} // namespace IO
+./Divine-Earthly-Quantum-Vedic-Kernels/include/io/Pratishakhyas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/logic/NyayaSutras.cpp:namespace DivineEarthlyKernels::Logic {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/logic/NyayaSutras.h:namespace DivineEarthlyKernels::Logic {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/logic/TarkaShastra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/logic/TarkaShastra.h:namespace Logic {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/logic/TarkaShastra.h:} // namespace Logic
+./Divine-Earthly-Quantum-Vedic-Kernels/include/logic/TarkaShastra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/Puranas.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/Puranas.h:namespace Memory {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/Puranas.h:} // namespace Memory
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/Puranas.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/YogaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/YogaSutras.h:namespace Memory {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/YogaSutras.h:} // namespace Memory
+./Divine-Earthly-Quantum-Vedic-Kernels/include/memory/YogaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/KamaSutra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/KamaSutra.h:namespace NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/KamaSutra.h:} // namespace NLP
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/KamaSutra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/MultiLangPanini.h:namespace DivineEarthlyKernels::NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/NatyaShastra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/NatyaShastra.h:namespace NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/NatyaShastra.h:} // namespace NLP
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/NatyaShastra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Nirukta.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Nirukta.h:namespace NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Nirukta.h:} // namespace NLP
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Nirukta.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/PaniniAshtadhyayi.cpp:namespace DivineEarthlyKernels::NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/PaniniAshtadhyayi.h:namespace DivineEarthlyKernels::NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Shiksha.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Shiksha.h:namespace NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Shiksha.h:} // namespace NLP
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Shiksha.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Vak.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Vak.h:namespace NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Vak.h:} // namespace NLP
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/Vak.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/VigyanBhairavTantra.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/VigyanBhairavTantra.h:namespace NLP {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/VigyanBhairavTantra.h:} // namespace NLP
+./Divine-Earthly-Quantum-Vedic-Kernels/include/nlp/VigyanBhairavTantra.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/quantum/VaisheshikaSutras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/quantum/VaisheshikaSutras.h:namespace Quantum {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/quantum/VaisheshikaSutras.h:} // namespace Quantum
+./Divine-Earthly-Quantum-Vedic-Kernels/include/quantum/VaisheshikaSutras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Astras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Astras.h:namespace Security {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Astras.h:} // namespace Security
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Astras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Dhanurveda.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Dhanurveda.h:namespace Security {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Dhanurveda.h:} // namespace Security
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/Dhanurveda.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/DharmaIAM.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/DharmaIAM.h:namespace Security {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/DharmaIAM.h:} // namespace Security
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/DharmaIAM.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/PanchaKoshaKernel.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/PanchaKoshaKernel.h:namespace Security {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/PanchaKoshaKernel.h:} // namespace Security
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/PanchaKoshaKernel.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/TantricYantras.h:namespace DivineEarthlyKernels {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/TantricYantras.h:namespace Security {
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/TantricYantras.h:} // namespace Security
+./Divine-Earthly-Quantum-Vedic-Kernels/include/security/TantricYantras.h:} // namespace DivineEarthlyKernels
+./Divine-Earthly-Quantum-Vedic-Kernels/sovereign_inference_demo.cpp:using namespace DivineEarthlyKernels::NLP;
+./Divine-Earthly-Quantum-Vedic-Kernels/test_dharma_runtime.cpp:using namespace DivineEarthlyKernels::Security;
+./Divine-Earthly-Quantum-Vedic-Kernels/test_simd_trig.cpp:using namespace DivineEarthlyKernels::Compute;
+./Divine-Earthly-Quantum-Vedic-Kernels/test_suite.cpp:using namespace DivineEarthlyKernels::Compute;
+./Divine-Earthly-Quantum-Vedic-Kernels/test_suite.cpp:using namespace DivineEarthlyKernels::NLP;
+./VedaRta/vedic_gemma_inference.cpp:using namespace std::chrono;
+./agritech/app/Http/Controllers/Controller.php:namespace App\Http\Controllers;
+./agritech/app/Models/User.php:namespace App\Models;
+./agritech/app/Providers/AppServiceProvider.php:namespace App\Providers;
+./agritech/database/factories/UserFactory.php:namespace Database\Factories;
+./agritech/database/seeders/DatabaseSeeder.php:namespace Database\Seeders;
+./agritech/tests/Feature/ExampleTest.php:namespace Tests\Feature;
+./agritech/tests/TestCase.php:namespace Tests;
+./agritech/tests/Unit/ExampleTest.php:namespace Tests\Unit;
+./divine_quantum/node_modules/body-parser/HISTORY.md:    - Change timer to per-namespace instead of global
+./divine_quantum/node_modules/body-parser/HISTORY.md:    - Support 256 namespace colors
+./divine_quantum/node_modules/call-bind-apply-helpers/index.d.ts:// export as namespace callBind;
+./divine_quantum/node_modules/debug/README.md:Every debug instance has a color generated for it based on its namespace name.
+./divine_quantum/node_modules/debug/README.md:  By default `debug` will log to stderr, however this can be configured per-namespace by overriding the `log` method:
+./divine_quantum/node_modules/debug/README.md:// set this namespace to log via console.log
+./divine_quantum/node_modules/debug/README.md:// overrides all per-namespace log settings
+./divine_quantum/node_modules/debug/src/browser.js:		this.namespace +
+./divine_quantum/node_modules/debug/src/common.js:	* @param {String} namespace The namespace string for the debug instance to be colored
+./divine_quantum/node_modules/debug/src/common.js:		debug.namespace = namespace;
+./divine_quantum/node_modules/debug/src/common.js:		const newDebug = createDebug(this.namespace + (typeof delimiter === 'undefined' ? ':' : delimiter) + namespace);
+./divine_quantum/node_modules/debug/src/common.js:	 * Checks if the given string matches a namespace template, honoring
+./divine_quantum/node_modules/debug/src/common.js:			...createDebug.skips.map(namespace => '-' + namespace)
+./divine_quantum/node_modules/depd/Readme.md:Create a new deprecate function that uses the given namespace name in the
+./divine_quantum/node_modules/depd/Readme.md:  - `namespace` - This is the namespace the deprecation came from
+./divine_quantum/node_modules/depd/Readme.md:namespace      |          |           location of mycoolmod.oldfunction() call
+./divine_quantum/node_modules/depd/Readme.md:timestamp of message          namespace      |          |             location of mycoolmod.oldfunction() call
+./divine_quantum/node_modules/depd/index.js: * Determine if namespace is contained in the string.
+./divine_quantum/node_modules/depd/index.js:    // namespace contained
+./divine_quantum/node_modules/depd/index.js: * Create deprecate for namespace in caller.
+./divine_quantum/node_modules/depd/index.js:    throw new TypeError('argument namespace is required')
+./divine_quantum/node_modules/depd/index.js:  deprecate._namespace = namespace
+./divine_quantum/node_modules/depd/index.js: * Determine if namespace is ignored.
+./divine_quantum/node_modules/depd/index.js:  // namespace ignored
+./divine_quantum/node_modules/depd/index.js: * Determine if namespace is traced.
+./divine_quantum/node_modules/depd/index.js:  // namespace traced
+./divine_quantum/node_modules/depd/index.js:    ' ' + this._namespace +
+./divine_quantum/node_modules/depd/index.js:  var formatted = '\x1b[36;1m' + this._namespace + '\x1b[22;39m' + // bold cyan
+./divine_quantum/node_modules/depd/lib/browser/index.js: * Create deprecate for namespace in caller.
+./divine_quantum/node_modules/depd/lib/browser/index.js:    throw new TypeError('argument namespace is required')
+./divine_quantum/node_modules/depd/lib/browser/index.js:  deprecate._namespace = namespace
+./divine_quantum/node_modules/express/History.md:    - Change timer to per-namespace instead of global
+./divine_quantum/node_modules/express/History.md:    - Support 256 namespace colors
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/function-bind/test/index.js:        var namespace = {
+./divine_quantum/node_modules/ipaddr.js/lib/ipaddr.js.d.ts:    namespace Address {
+./divine_quantum/node_modules/raw-body/index.d.ts:declare namespace getRawBody {
+./divine_quantum/node_modules/router/HISTORY.md:    - Change timer to per-namespace instead of global
+./divine_quantum/node_modules/router/HISTORY.md:    - Support 256 namespace colors
+./divine_quantum/node_modules/send/HISTORY.md:    - Change timer to per-namespace instead of global
+./divine_quantum/node_modules/send/HISTORY.md:    - Support 256 namespace colors
+./divine_quantum/node_modules/side-channel-list/index.d.ts:declare namespace getSideChannelList {
+./divine_quantum/node_modules/side-channel-map/index.d.ts:declare namespace getSideChannelMap {
+./divine_quantum/node_modules/side-channel-weakmap/index.d.ts:declare namespace getSideChannelWeakMap {
+./divine_quantum/node_modules/side-channel/index.d.ts:declare namespace getSideChannel {
+./Divine-Earthly-Intelligence-System/core/kernel.cpp:namespace py = pybind11;
+./Divine-Earthly-Intelligence-System/core/vedic_quantum_unified.cpp:namespace py = pybind11;
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:// Construct the namespace ABI tags component
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:// Construct the namespace version component
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:// Combine namespace components
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    namespace nlohmann                               \
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    inline namespace NLOHMANN_JSON_NAMESPACE_CONCAT( \
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    }  /* namespace (inline namespace) NOLINT(readability/namespace) */ \
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    }  // namespace nlohmann
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    namespace detail {                                                            \
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    namespace detail2 {                                                           \
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    } /* namespace detail2 */ \
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace utility_internal
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace utility_internal
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    @brief namespace for Niels Lohmann
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:@brief detail namespace with internal helper functions
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:This namespace collects functions that should not be exposed,
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace std_fs = std::experimental::filesystem;
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace std_fs = std::filesystem;
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:/// namespace to hold default `from_json` function
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace // NOLINT(cert-dcl59-cpp,fuchsia-header-anon-namespaces,google-build-namespaces)
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace std
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace std
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:/// namespace to hold default `to_json` function
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace // NOLINT(cert-dcl59-cpp,fuchsia-header-anon-namespaces,google-build-namespaces)
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:// Encloses the using declarations in namespace for not to leak them to outside scope
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace container_input_adapter_factory_impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace container_input_adapter_factory_impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace dtoa_impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace dtoa_impl
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace detail
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:@brief namespace for Niels Lohmann
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:    // convenience aliases for types residing in namespace detail;
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:inline namespace literals
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:inline namespace json_literals
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace json_literals
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace literals
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:namespace std // NOLINT(cert-dcl58-cpp)
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:}  // namespace std
+./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/kernel.cpp:namespace py = pybind11;
+./structs.txt:./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:// Construct the namespace ABI tags component
+./structs.txt:./Vedic-Quantum-Intelligence-Engine/vedic_algorithms/src/include/nlohmann/json.hpp:// Construct the namespace version component

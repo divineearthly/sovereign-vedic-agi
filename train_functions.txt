@@ -1,0 +1,10 @@
+./sovereign-edge-ai/train_vedic.py:def train_vedic_model(
+./sovereign-edge-ai/train_vedic_full.py:def train_vedic_full(
+./sovereign-edge-ai/train_vedic_stable.py:def train_vedic_stable(model, loader, epochs=5, lr=0.001, device='cpu'):
+./sovereign-edge-ai/vedic_code_dump.txt:def train_vedic_full(
+./sovereign-edge-ai/vedic_code_dump.txt:def train_vedic_stable(model, loader, epochs=5, lr=0.001, device='cpu'):
+./sovereign-edge-ai/vedic_code_dump.txt:def train_vedic_model(
+./vedic-inference-engine/train_vedarta_50m.py:    def train_step(self, x: List[List[float]], y: List[int], 
+./vedic-inference-engine/train_vedarta_compact.py:    def train_step(self, x, target_idx):
+./Divine-Earthly-Intelligence-System/world_problem_modules/train_model.py:def train_model(data_path, model_save_path='earth_signal_model.pth'):
+./Vedic-Quantum-Intelligence-Engine/lightweight_ai/models/train_model.py:def train_model(data_path, model_save_path):
